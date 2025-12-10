@@ -1,4 +1,5 @@
 Equity Performance Analysis Using Bloomberg Data (SQL + R)
+
 A study into how evolving policy shifts, sector exposures, and company-level dispersion shape current equity market performance.
 
 1. Context & Motivation:
