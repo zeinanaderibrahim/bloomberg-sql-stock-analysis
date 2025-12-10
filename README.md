@@ -1,7 +1,7 @@
-📈 Equity Performance Analysis Using Bloomberg Data (SQL + R)
-A structured exploration of how evolving policy shifts, sector exposures, and company-level dispersion shape current equity market performance.
+Equity Performance Analysis Using Bloomberg Data (SQL + R)
+A study into how evolving policy shifts, sector exposures, and company-level dispersion shape current equity market performance.
 
-1. 🎯 Context & Motivation:
+1. Context & Motivation:
 Markets in 2025 continue to react to a complex mix of macroeconomic forces. Among the significant catalysts:
 
 - renewed discussions of broad import tariffs under the new U.S. administration
@@ -18,7 +18,7 @@ Against this macroeconomic backdrop, a natural question emerges:
 
 This project builds a workflow designed to answer exactly that kind of question in a clean, structured, and repeatable way.
 
-2. 🧰 Methodology
+2. Methodology
 
 1: Data Import & Validation (R)
 
@@ -54,7 +54,7 @@ Script: sql/analysis_queries.sql
 
 Script: R/analysis.R
 
-3. 📊 Preliminary Observations
+3. Preliminary Observations
 
 These will update as analysis progresses, but examples of expected insights include:
 
@@ -68,7 +68,7 @@ These will update as analysis progresses, but examples of expected insights incl
 
 - Companies with domestic supply chains may outperform peers dependent on foreign components
 
-4. 📁 Project Structure
+4. Project Structure
 
 bloomberg-sql-stock-analysis/
 │
