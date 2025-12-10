@@ -1,13 +1,13 @@
 Equity Performance Analysis Using Bloomberg Data (SQL + R)
 
-A study into how evolving policy shifts, sector exposures, and company-level dispersion shape current equity market performance.
+A study into how evolving tarrifs policy shifts, sector exposures, and company-level dispersion shape current volatile equity market performance.
 
 1. Context & Motivation:
 Markets in 2025 continue to react to a complex mix of macroeconomic forces. Among the significant catalysts:
 
 - renewed discussions of broad import tariffs under the new U.S. administration
 
-- supply chain realignments affecting industrials and manufacturing
+- supply chain realignments due to geopolitics affecting industrials and manufacturing
 
 - shifting expectations around global trade relationships
 
@@ -17,11 +17,11 @@ Against this macroeconomic backdrop, a natural question emerges:
 
 “Which sectors are positioned to benefit or suffer under tariff-driven market dynamics? And which companies are driving overall dispersion?”
 
-This project builds a workflow designed to answer exactly that kind of question in a clean, structured, and repeatable way.
+This project builds a workflow designed to answer the question in a clean, structured, and repeatable way.
 
 2. Methodology
 
-1: Data Import & Validation (R)
+A: Data Import & Validation (R)
 
 - Load Bloomberg price and metadata files
 
@@ -31,7 +31,7 @@ This project builds a workflow designed to answer exactly that kind of question 
 
 Script: R/import_data.R
 
-2: Data Cleaning & Structuring (SQL)
+B: Data Cleaning & Structuring (SQL)
 
 - Join prices with company metadata
 
@@ -43,7 +43,7 @@ Script: R/import_data.R
 
 Script: sql/analysis_queries.sql
 
-3: Return Analysis & Sector Comparisons (R)
+C: Return Analysis & Sector Comparisons (R)
 
 - Examine cumulative performance
 
