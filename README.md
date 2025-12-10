@@ -14,8 +14,8 @@ Markets in 2025 continue to react to a complex mix of macroeconomic forces. Amon
 
 Against this macroeconomic backdrop, a natural question emerges:
 
-**“Which sectors are positioned to benefit or suffer under tariff-driven market dynamics? And which companies are driving overall dispersion?”
-**
+“Which sectors are positioned to benefit or suffer under tariff-driven market dynamics? And which companies are driving overall dispersion?”
+
 This project builds a workflow designed to answer exactly that kind of question in a clean, structured, and repeatable way.
 
 2. 🧰 Methodology
