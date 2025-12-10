@@ -1,6 +1,6 @@
 Equity Performance Analysis Using Bloomberg Data (SQL + R)
 
-A study into how evolving tarrifs policy shifts, sector exposures, and company-level dispersion shape current volatile equity market performance.
+A study into how evolving policy shifts, sector exposures, and company-level dispersion shape current volatile equity market performance.
 
 1. Context & Motivation:
 Markets in 2025 continue to react to a complex mix of macroeconomic forces. Among the significant catalysts:
